@@ -38,7 +38,7 @@ app.use('/livro', livroRoutes)
 
 //rota inicial / endpoint
 app.get('/', (req, res) => {
-    res.json({ message: 'Utilize a rota /livros para obter os dados da API'})
+    res.json({ message: 'Utilize a rota /livro para obter os dados da API'})
 })
 
 
