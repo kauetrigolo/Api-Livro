@@ -4,7 +4,7 @@ const app = express()
 const mongoose = require('mongoose')
 require('dotenv').config()
 const { rateLimit } = require('express-rate-limit')
-
+const cors = require('cors')
 
 
 
@@ -31,6 +31,7 @@ app.use(
     })
 ) 
 
+app.use(cors())
 app.use(express.json()) // Middleware para ler os dados do corpo da requisição em formato json, se não for um objeto
 
 // Conectando as rotas
