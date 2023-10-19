@@ -10,7 +10,7 @@ A API oferece os seguintes métodos HTTP:
 
 # 💻 Tecnologias utilizadas
 <p>
-  <img src={https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB} />
+  <img src="{[https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)}" />
 </p>
 
 # 📰 Leia a inteira documentação da API aqui
