@@ -13,5 +13,5 @@ A API oferece os seguintes métodos HTTP:
   <img src="{https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}" />
 </p>
 
-# 📰 Leia a inteira documentação da API aqui
+## 📰 Leia a inteira documentação da API aqui
 <a href="https://rapidapi.com/kauetrigolodamaceno/api/vestibuloteca">Clique aqui</a>
