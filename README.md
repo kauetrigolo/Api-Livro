@@ -5,8 +5,11 @@ A API Livros para Vestibulares é uma ferramenta útil para estudantes que estã
 A API oferece os seguintes métodos HTTP:
 <ul>
   <li>GET /livros: Retorna uma lista de todas as obras literárias.</li>
-  <li>GET /livros/:id: Retorna uma obra literária específica, identificada pelo seu ID.</li>
+  <li>GET /livros/id: Retorna uma obra literária específica, identificada pelo seu ID.</li>
 </ul>
 
 # 💻 Tecnologias utilizadas
-<img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
+<p>
+  <img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
+</p>
+
