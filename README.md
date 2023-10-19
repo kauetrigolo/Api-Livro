@@ -8,3 +8,5 @@ A API oferece os seguintes métodos HTTP:
   <li>GET /livros/:id: Retorna uma obra literária específica, identificada pelo seu ID.</li>
 </ul>
 
+# 💻 Tecnologias utilizadas
+<img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
