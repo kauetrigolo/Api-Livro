@@ -15,5 +15,5 @@ A API oferece os seguintes métodos HTTP:
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-## 📰 Leia a inteira documentação da API aqui
-<a href="https://rapidapi.com/kauetrigolodamaceno/api/vestibuloteca">Clique aqui</a>
+## 📰 Leia a inteira documentação da API <a href="https://rapidapi.com/kauetrigolodamaceno/api/vestibuloteca">aqui</a>
+
