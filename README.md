@@ -1,14 +1,14 @@
 # 📚 Api-Livro
 A API Livros para Vestibulares é uma ferramenta útil para estudantes que estão se preparando para os principais vestibulares do país. A API fornece uma lista completa das obras literárias necessárias para realizar esses vestibulares, além de informações sobre cada obra tais como: nome, capa, sinopse, gênero, escola literária, autor e ano de lançamento.
 
-# 👨‍💻 Requisições
+## 👨‍💻 Requisições
 A API oferece os seguintes métodos HTTP:
 <ul>
   <li>GET /livros: Retorna uma lista de todas as obras literárias.</li>
   <li>GET /livros/id: Retorna uma obra literária específica, identificada pelo seu ID.</li>
 </ul>
 
-# 💻 Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -16,3 +16,6 @@ A API oferece os seguintes métodos HTTP:
 
 
 ## 📰 Leia a inteira documentação da API <a href="https://rapidapi.com/kauetrigolodamaceno/api/vestibuloteca">aqui</a>
+
+## 🏨 Hospedagem
+O site foi hospedado utilizando a ferramenta Cyclic.sh e você pode acessar a API clicando <a href"https://api-livro.cyclic.app/livro">neste link</a>
