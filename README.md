@@ -9,9 +9,8 @@ A API oferece os seguintes métodos HTTP:
 </ul>
 
 # 💻 Tecnologias utilizadas
-<p>
-  <img src="{https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## 📰 Leia a inteira documentação da API aqui
 <a href="https://rapidapi.com/kauetrigolodamaceno/api/vestibuloteca">Clique aqui</a>
