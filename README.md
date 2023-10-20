@@ -8,6 +8,9 @@ A API oferece os seguintes métodos HTTP:
   <li>GET /livros/id: Retorna uma obra literária específica, identificada pelo seu ID.</li>
 </ul>
 
+## Utilizando AXIOS para fazer requisições
+![utilização do Axios](https://github.com/kauetrigolo/vestibuloteca1/assets/131712297/66db1606-5359-41d7-a5de-172a15135599)
+
 ## 💻 Tecnologias utilizadas
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
