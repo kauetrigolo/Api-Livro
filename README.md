@@ -16,4 +16,3 @@ A API oferece os seguintes métodos HTTP:
 
 
 ## 📰 Leia a inteira documentação da API <a href="https://rapidapi.com/kauetrigolodamaceno/api/vestibuloteca">aqui</a>
-
